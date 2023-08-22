@@ -61,7 +61,7 @@ Understanding Part 1 and Part 2, learners will be grouped in a team of 3 or 4 to
 
 |The Test|When? (SDLC)|How are they performed?|
 |----|----|---|
-|Unit Test|Enter 1 to 7|3 sentences max|
+|Unit Test|5|The purpose of unit testing is to validate that each unit of the software works as intended and meets the requirements. Unit testing is typically performed by developers, and it is performed early in the development process before the code is integrated and tested as a whole system.|
 |Integration Test|Enter 1 to 7|3 sentences max|
 |Acceptance Test|Enter 1 to 7|3 sentences max|
 |Performance Test|Enter 1 to 7|3 sentences max|
