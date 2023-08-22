@@ -41,7 +41,7 @@ Source: https://www.javatpoint.com/software-engineering-software-development-lif
 ### Functional Testings
 
 1. *Unit Test* - An isolation testing targeting at the smallest piece of logic in the software.
-2. *Integration Test* - Testing multiple software modules together as a group.
+2. *Integration Test* - Testing multiple software modules together (with all the components) as a group, making sure that everything works. 
 3. *Acceptance Test* - Testing the functionality of the software by end users before launch.
 
 ### Non-functional Testings
