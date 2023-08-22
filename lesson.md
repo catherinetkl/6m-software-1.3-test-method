@@ -61,9 +61,9 @@ Understanding Part 1 and Part 2, learners will be grouped in a team of 3 or 4 to
 
 |The Test|When? (SDLC)|How are they performed?|
 |----|----|---|
-|Unit Test|5|The purpose of unit testing is to validate that each unit of the software works as intended and meets the requirements. Unit testing is typically performed by developers, and it is performed early in the development process before the code is integrated and tested as a whole system.|
-|Integration Test|Enter 1 to 7|3 sentences max|
-|Acceptance Test|Enter 1 to 7|3 sentences max|
+|Unit Test|5|A unit test comprises three stages: planning, writing test cases and performing the unit test itself. In the first step, developers or QA professionals prepare and review the unit test. In the next step, they write test cases and scripts. In the third step the code is tested.|
+|Integration Test|5|Integration tests are performed during the Testing phase of the software development life cycle. They involve testing the interactions and interfaces between different components or modules of the software to ensure that they work together as expected. This is achieved by combining the individual components and testing their interactions to identify any issues or inconsistencies that might arise when they are integrated.|
+|Acceptance Test|5|Acceptance tests are conducted during the Testing phase of the software development life cycle. These tests are designed to determine whether the software meets the specified business requirements and is ready for deployment. They are typically performed by stakeholders, end-users, or quality assurance teams, and involve simulating real-world scenarios to validate the software's functionality, performance, and overall suitability for its intended use.|
 |Performance Test|Enter 1 to 7|3 sentences max|
 |Security Test|Enter 1 to 7|3 sentences max|
 
