@@ -50,6 +50,8 @@ Source: https://www.javatpoint.com/software-engineering-software-development-lif
     1. Load Test - Simulate an increasing amount of traffics/requests sent to the system.
     1. Stress Test - Determine the peak load and/or how much requests the system can receive.
     1. Endurance Test - Determine the behaviour of the system at the peak load over time.
+> Compatibility testing is a form of non-functional software testing -- it tests aspects such as usability, reliability and performance.
+ 
 1. *Security Test* -
     1. Dependency Vulnerabilities - Scanning for vulnerabilities introduced by dependencies.
     1. Secrets & Data Storage Strategy - Determine how secure are secrets and sensitive data being stored.
